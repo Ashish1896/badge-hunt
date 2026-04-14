@@ -7,3 +7,4 @@ This is a test repository for earning GitHub achievement badges!
 - Pair Extraordinaire
 - Starstruck
 - - Galaxy Brain
+  - - Open Sourcerer
