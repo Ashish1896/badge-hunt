@@ -6,3 +6,4 @@ This is a test repository for earning GitHub achievement badges!
 - YOLO
 - Pair Extraordinaire
 - Starstruck
+- - Galaxy Brain
